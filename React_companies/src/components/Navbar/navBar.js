@@ -32,7 +32,7 @@ const navBar = () => {
             </li>
           </ul>
           <a
-            href="https://github.com/LTrashy/react_django_api"
+            href="https://github.com/LTrashy/DjangoReact"
             className="d-flex btn btn-outline-success"
           >
             Github
